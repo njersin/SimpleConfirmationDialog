@@ -1,6 +1,13 @@
 <resources>
-    <string name="app_name">SimpleConfirmationDialog</string>
-
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Add Emphasis Text App</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="formatting_options">
+        <item>Capitalize</item>
+        <item>Add Exclamation Points</item>
+        <item>Add Smiley Face</item>
+    </string-array>
+
+    <string name="emphasis_dialog_text">What emphasis would you like?</string>
+    <string name="emphasized_text_dialog_title">Your emphasized text is....</string>
 </resources>
